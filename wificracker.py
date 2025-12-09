@@ -639,7 +639,7 @@ class WifiCracker:
 
             box_width = 50
             title = "Wifi Cracker"
-            line1 = "Developed by Jutt Studio"
+            line1 = "Developed by Jutt Cyber Tech"
             line2 = "Created by JS"
             line3 = "js434@proton.me"
             line4 = "Version 1.0"
@@ -733,4 +733,5 @@ if __name__ == "__main__":
     else:
         app = WifiCracker()
         app.run()
+
 
