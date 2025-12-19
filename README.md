@@ -102,5 +102,4 @@ sudo apt-get update && sudo apt-get install -y wireless-tools net-tools aircrack
 
 ## 🏁 Final Notes
 
-This tool is designed to simplify Wi-Fi auditing and learning.  
-Use responsibly. Stay ethical. Stay secure. 🔐
+This tool is created strictly for educational, research, and authorized security testing purposes. It must only be used on networks you own or have explicit permission to audit. Any illegal use, unauthorized access, or misuse is solely the responsibility of the user. The developer does not support or encourage unlawful activity and is not responsible for any damage, legal action, or involvement with law enforcement resulting from misuse. Use responsibly and stay within the law.⚖️🧑‍💻
